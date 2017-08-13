@@ -1,0 +1,164 @@
+<resources>
+    <string name="app_name">SignUp</string>
+    <item name="check_box_id" type="id" />
+    <item name="textview_no_class_Select" type="id" />
+    <string-array name="class_list">
+        <item>Select Class</item>
+        <item>Nursery</item>
+        <item>L.K.G</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+
+    <string-array name="ClassNurserySubjects">
+
+        <item>Alphabets</item>
+        <item>Numbers</item>
+        <item>Poems</item>
+    </string-array>
+
+    <string-array name="ClassLKGSubjects">
+
+        <item>English</item>
+        <item>Hindi</item>
+        <item>Poems</item>
+        <item>Art</item>
+    </string-array>
+
+    <string-array name="Class1Subjects">
+
+        <item>English</item>
+        <item>Hindi</item>
+        <item>Maths</item>
+        <item>Art</item>
+
+    </string-array>
+
+    <string-array name="Class2Subjects">
+
+        <item>English</item>
+        <item>Hindi</item>
+        <item>Maths</item>
+        <item>Art</item>
+
+    </string-array>
+    <string-array name="Class3Subjects">
+
+        <item>English</item>
+        <item>Hindi</item>
+        <item>Maths</item>
+        <item>Art</item>
+
+    </string-array>
+
+    <string-array name="Class4Subjects">
+
+        <item>English</item>
+        <item>Hindi</item>
+        <item>Maths</item>
+        <item>Art</item>
+
+    </string-array>
+    <string-array name="Class5Subjects">
+
+        <item>English</item>
+        <item>Hindi</item>
+        <item>Maths</item>
+        <item>Art</item>
+        <item>Science</item>
+
+    </string-array>
+
+    <string-array name="Class6Subjects">
+
+        <item>English</item>
+        <item>Hindi</item>
+        <item>Maths</item>
+        <item>Art</item>
+        <item>Science</item>
+        <item>Moral Science</item>
+
+    </string-array>
+
+    <string-array name="Class7Subjects">
+
+        <item>English</item>
+        <item>Hindi</item>
+        <item>Maths</item>
+        <item>Art</item>
+        <item>Science</item>
+        <item>Moral Science</item>
+        <item>S.S.T</item>
+    </string-array>
+
+
+    <string-array name="Class8Subjects">
+
+        <item>English</item>
+        <item>Hindi</item>
+        <item>Maths</item>
+        <item>Art</item>
+        <item>Science</item>
+        <item>Moral Science</item>
+        <item>S.S.T</item>
+    </string-array>
+
+    <string-array name="Class9Subjects">
+
+        <item>English</item>
+        <item>Hindi</item>
+        <item>Maths</item>
+        <item>Art</item>
+        <item>Science</item>
+        <item>Moral Science</item>
+        <item>Geography</item>
+        <item>History</item>
+        <item>Civics</item>
+    </string-array>
+
+
+    <string-array name="Class10Subjects">
+
+        <item>English</item>
+        <item>Hindi</item>
+        <item>Maths</item>
+        <item>Art</item>
+        <item>Science</item>
+        <item>Moral Science</item>
+        <item>Geography</item>
+        <item>History</item>
+        <item>Civics</item>
+    </string-array>
+
+
+
+    <string-array name="Class11pcmSubjects">
+
+        <item>Physics</item>
+        <item>Chemistry</item>
+        <item>Maths</item>
+        <item>Computers</item>
+        <item>Economics</item>
+        <item>Physical</item>
+            </string-array>
+    <string-array name="Class12pcmSubjects">
+
+        <item>Physics</item>
+        <item>Chemistry</item>
+        <item>Maths</item>
+        <item>Computers</item>
+        <item>Economics</item>
+        <item>Physical</item>
+    </string-array>
+
+</resources>
